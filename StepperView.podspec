@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author           = { 'badrinathvm' => 'badrinathvm@gmail.com' }
   s.source           = { :git => 'https://github.com/badrinathvm/StepperView.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/badrivm'
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '10.0'
   s.watchos.deployment_target = '6.0'
   s.source_files     = 'Sources/**/*.swift'
 end
