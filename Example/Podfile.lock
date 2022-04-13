@@ -1,0 +1,23 @@
+PODS:
+  - SnapshotTesting (1.7.2)
+  - StepperView (1.1.4)
+
+DEPENDENCIES:
+  - SnapshotTesting (~> 1.7.2)
+  - StepperView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapshotTesting
+
+EXTERNAL SOURCES:
+  StepperView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapshotTesting: 8caa6661fea7c8019d5b46de77c16bab99c36c5c
+  StepperView: 5898873a52d8f45801cb565bb3e1acef78495c62
+
+PODFILE CHECKSUM: f5a99c8518c38c24e820cc7e8f085cbe692e9c77
+
+COCOAPODS: 1.8.4
